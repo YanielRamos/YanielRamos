@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaniel Ramos</h1>
 <h3 align="center">Software Engineer from Puerto Rico</h3>
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/YanielRamos/YanielRamos/blob/main/background.gif))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanielramos&label=Profile%20views&color=0e75b6&style=flat" alt="yanielramos" /> </p>
 
