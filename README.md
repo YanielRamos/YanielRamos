@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanielramos&label=Profile%20views&color=0e75b6&style=flat" alt="yanielramos" /> </p>
 
-- 🔭 I’m currently working on **Flutter, Dart and Firebase**
+- 🔭 I’m currently working on **React, Python and Firebase**
 
 - 📫 How to reach me **yanielramos0504@gmail.com**
 
